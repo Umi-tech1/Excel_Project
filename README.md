@@ -59,7 +59,7 @@ This is to ensured that the data is free from errors and ready for analysis.
 - There are Outliers in the ‘Time to close’. This indicates exceptional cases, inefficiencies, errors or special circumstances, therefore further investigation should be carried out.
 
 
-# Recommendation
+# Recommendations
 To ensure efficiency in closing claims, the legal team need to do the following
 1.	Detailed review of the processing procedure should be conducted to identify best practices.
 2.	Standardize these practices across locations to improve efficiency
