@@ -33,13 +33,23 @@ I explore the dataset to gain understanding of the data;s characteristics and id
 # Data Cleaning
 This is to ensured that the data is free from errors and ready for analysis.
 
-### Steps:
-- Spelling check, no spelling error found.
--	Check for duplicates, no duplicate found.
--	A year column created from the Claim_ID using the mid funtions
--	An anomaly was found in column 2, row 60. I corrected the anomaly by removing the negative sign to ensure the dataset integrity and consistency for further analysis.
-  This correction ensures that all ‘Time to Close’ values are non-negative and reflect the actual time required to close claims.
--	The empty cells on the “Cause” column were replace with unknown (78 Unknown replacement).
--	Ensure all relevant columns are correctly formatted
+### Steps: Tghe following tasks was performed
+1. Spelling check, no spelling error found.
+2.  Check for duplicates, no duplicate found.
+3.  	A year column created from the Claim_ID using the mid funtions  =MID(A2, 12, 4) 
+5.  	An anomaly was found in column 2, row 60. I corrected the anomaly by removing the negative sign to ensure the dataset integrity and consistency for further analysis.This correction 
+      ensures that all ‘Time to Close’ values are non-negative and reflect the actual time required to close claims.
+6.  	The empty cells on the “Cause” column were replace with unknown (78 Unknown replacement).
+7.  	Ensure all relevant columns are correctly formatted
+   
+# Data Analysis:This involved analysing the dataset to address the following questions
+- How does the number of claims differ across locations?
+- - What is the distribution of time to close claims?
+- How does the average time to close claims differ by location?
+
+# Insights: The analysis result is summerized below
+-	The number of claims across location includes Sao Luis = 30, and Recife = 25,  Fortaleza = 22, Natal = 21
+-	The distribution of time to close across location includes: Sao Luis = 30902 and Recife = 21517, Fortaleza = 17061, Natal =12204
+-	The average time to close for each location includes Sao Luis = 1030, Recife = 861, Fortaleza = 776, Natal= 581
 
 
