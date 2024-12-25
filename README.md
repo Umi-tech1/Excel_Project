@@ -47,9 +47,26 @@ This is to ensured that the data is free from errors and ready for analysis.
 - - What is the distribution of time to close claims?
 - How does the average time to close claims differ by location?
 
-# Insights: The analysis result is summerized below
+ The analysis result is summerized below
 -	The number of claims across location includes Sao Luis = 30, and Recife = 25,  Fortaleza = 22, Natal = 21
 -	The distribution of time to close across location includes: Sao Luis = 30902 and Recife = 21517, Fortaleza = 17061, Natal =12204
 -	The average time to close for each location includes Sao Luis = 1030, Recife = 861, Fortaleza = 776, Natal= 581
+-	
+# Insights:
+- Natal has the highest number of claims and took the shortest time to close claims on average of 581. This indicate that Natal is the most efficient in terms of closing claims.
+- Sao Luis take the longest time to close claims on average of 1030 days	.
+- There is variability in the efficiency of the claim processing across locations.
+- There are Outliers in the ‘Time to close’. This indicates exceptional cases, inefficiencies, errors or special circumstances, therefore further investigation should be carried out.
+
+
+# Recommendation
+To ensure efficiency in closing claims, the legal team need to do the following
+1.	Detailed review of the processing procedure should be conducted to identify best practices.
+2.	Standardize these practices across locations to improve efficiency
+3.	Assess if additional resources are required to handle claims efficiently
+4.	Implement claim management systems to streamline processes
+5.	Regular review meetings should be established to track progress of implemented changes and ensure continuous improvement in claim processing times.
+
+
 
 
