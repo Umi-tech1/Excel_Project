@@ -33,7 +33,7 @@ I explore the dataset to gain understanding of the data;s characteristics and id
 # Data Cleaning
 This is to ensured that the data is free from errors and ready for analysis.
 
-### Steps: Tghe following tasks was performed
+### Steps: The following tasks was performed
 1. Spelling check, no spelling error found.
 2.  Check for duplicates, no duplicate found.
 3.  	A year column created from the Claim_ID using the mid funtions  =MID(A2, 12, 4) 
