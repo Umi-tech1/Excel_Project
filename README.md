@@ -58,6 +58,10 @@ This is to ensured that the data is free from errors and ready for analysis.
 - There is variability in the efficiency of the claim processing across locations.
 - There are Outliers in the ‘Time to close’. This indicates exceptional cases, inefficiencies, errors or special circumstances, therefore further investigation should be carried out.
 
+  # Dashboard
+  
+
+![Uploading Vivendo _food.PNG…]()
 
 # Recommendations
 To ensure efficiency in closing claims, the legal team need to do the following
